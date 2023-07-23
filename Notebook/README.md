@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/spaces/Kennymaur/LP5-Sentiment-Analysis-Gradio-APP 
+Check out the configuration reference at https://huggingface.co/spaces/Kennymaur/porthole-detector 
 
 ## Author 
 AFOLABI KEHINDE
