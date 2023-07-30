@@ -12,4 +12,4 @@ pinned: false
 Check out the configuration reference at https://huggingface.co/spaces/Kennymaur/porthole-detector 
 
 ## Author 
-AFOLABI KEHINDE
+AFOLABI Kehinde
